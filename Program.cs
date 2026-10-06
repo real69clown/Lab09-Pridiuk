@@ -34,3 +34,17 @@
 //     break;
 // }
 
+// for (; ; )
+// {
+//     Console.WriteLine("Введите код группы (для выхода - <<выход>>)");
+//     string groupCode = Console.ReadLine();
+
+//     if (groupCode == "выход")
+//     {
+//         break;
+//     }
+
+//     Console.WriteLine($"Записать код группы: {groupCode}");
+// }
+
+// Console.WriteLine("Работа с журналом завершена");
