@@ -48,3 +48,23 @@
 // }
 
 // Console.WriteLine("Работа с журналом завершена");
+
+// Задача Б
+
+// for (int i = 100; i >= 0; i -= 10) {
+//     Console.WriteLine(i);
+// }
+
+// Задача Г
+
+// for (int i = 1; i <= 50; i++) {
+//     if (i % 3 == 0) {
+//         continue;
+//     }
+    
+//     if (i % 7 == 0) {
+//         break;
+//     }
+    
+//     Console.WriteLine(i);
+// }
